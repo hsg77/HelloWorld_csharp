@@ -1,0 +1,5 @@
+E:\tools_e\GitHub系统\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\tools_e\GitHub系统\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\tools_e\GitHub系统\HelloWorld\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+E:\tools_e\GitHub系统\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\tools_e\GitHub系统\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
