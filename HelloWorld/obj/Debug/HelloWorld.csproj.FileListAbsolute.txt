@@ -5,3 +5,7 @@ E:\tools_e\GitHub系统\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.ex
 E:\tools_e\GitHub系统\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
 E:\公司\GitHub系统\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 E:\公司\GitHub系统\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+F:\项目集合\GitHub系统\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+F:\项目集合\GitHub系统\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+F:\项目集合\GitHub系统\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+F:\项目集合\GitHub系统\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
